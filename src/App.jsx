@@ -1,11 +1,8 @@
+import Login from './Component/Login'
 
-
-function App() {
-
-  return (
-    <>
-      
-    </>
+const App = () =>{
+  return(
+    <Login/>
   )
 }
 
